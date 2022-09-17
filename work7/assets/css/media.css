@@ -1,0 +1,192 @@
+@media (max-width: 660px) {
+  .main {
+    margin-left: 40px;
+  }
+
+  .header-services,
+  .header-btn {
+    display: none;
+  }
+
+  .header-name {
+    padding: 0;
+  }
+
+  .btn {
+    display: block;
+    margin: 0;
+  }
+
+  .for-mobile {
+    display: flex;
+    gap: 10px;
+    margin: 0;
+  }
+
+  .part1 {
+    flex-direction: column;
+    padding-top: 0;
+  }
+
+  .part1-items p {
+    padding-left: 10px;
+  }
+
+  .part1-items button {
+    margin-left: 10px;
+  }
+
+  .part1-items {
+    padding-top: 70px;
+    padding-left: 0px;
+  }
+
+  .part1-img {
+    display: none;
+  }
+
+  .part1-items img {
+    display: block;
+    padding-left: 70px;
+  }
+
+  .part2-titles p:nth-of-type(2) {
+    padding-left: 10px;
+    width: 430px;
+  }
+
+  .part2-titles li {
+    padding-left: 10px;
+  }
+
+  .part2-titles p:nth-of-type(1) {
+    padding-left: 110px;
+  }
+
+  .column {
+    flex-direction: column;
+  }
+
+  .column {
+    padding-left: 30px;
+  }
+
+  .column:nth-of-type(1) {
+    gap: 0px;
+  }
+
+  .column:nth-of-type(2) {
+    gap: 0px;
+    padding-top: 90px;
+    padding-left: 0px;
+  }
+
+  .column:nth-of-type(3) {
+    gap: 0px;
+    padding-top: 90px;
+  }
+
+  .column-title {
+    padding-left: 20px;
+  }
+
+  .part4 {
+    background-color: white;
+    width: 500px;
+  }
+
+  .boxes {
+    flex-direction: column;
+    padding-left: 0;
+    gap: 50px;
+    padding-left: 110px;
+  }
+
+  .flex-column {
+    flex-direction: column;
+    gap: 30px;
+    padding-top: 70px;
+  }
+
+  .items-in-line img:nth-of-type(1) {
+    padding-left: 85px;
+  }
+
+  .links {
+    padding-left: 0;
+    padding-right: 0;
+    gap: 0px;
+    justify-content: flex-start;
+    padding-left: 110px;
+    gap: 5px;
+  }
+
+  .part5 {
+    padding: 0px;
+    padding-top: 1200px;
+    padding-left: 40px;
+  }
+
+  .inputs input {
+    width: 340px;
+    height: 40px;
+  }
+
+  .inputs3 input {
+    width: 340px;
+    height: 120px;
+  }
+
+  .inputs {
+    border: 1px solid #68a678;
+    border-radius: 4px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 348px;
+    margin-left: 30px;
+  }
+
+  .inputs3 {
+    border: 1px solid #68a678;
+    border-radius: 4px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 348px;
+    margin-left: 30px;
+  }
+
+  .part5 button {
+    width: 165px;
+    margin-left: 260px;
+    height: 50px;
+    background-color: #68a678;
+    border: #68a678;
+    margin-left: 110px;
+    margin-top: 30px;
+  }
+
+  .end-header {
+    background-image: url(/work7/assets/img/23.png);
+    width: 480px;
+    flex-direction: column;
+    padding: 0px;
+    gap: 30px;
+    padding-left: 40px;
+  }
+
+  .quick-links {
+    margin: 0;
+  }
+
+  .vision {
+    margin: 0;
+  }
+
+  .contact {
+    margin: 0;
+  }
+}
